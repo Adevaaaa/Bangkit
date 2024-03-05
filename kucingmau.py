@@ -67,7 +67,7 @@ order_dataset.info()
 
 with st.sidebar:
     # Menambahkan logo perusahaan
-    st.image("https://github.com/dicodingacademy/assets/raw/main/logo.png")
+    st.image("https://github.com/Adevaaaa/Bangkit/blob/509f7409d9bb99fe1b3f7e7545ad0552f15003a0/allmight.png")
 
 product = joinproduk(order_item,product_dataset,product_translate)
 harga_product = hargaproduk(product)
