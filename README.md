@@ -10,5 +10,5 @@ pip install -r equirements.txt
 
 ## Run steamlit app
 ```
-streamlit kucingmau.py
+streamlit run kucingmau.py
 ```
